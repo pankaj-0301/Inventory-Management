@@ -79,8 +79,8 @@ A comprehensive inventory management system built for small-scale retail busines
 
 3. **Environment Setup**
    The MongoDB connection and Gemini API key are already configured in the code:
-   - MongoDB: `mongodb+srv://movieadda003:2Y1jgjv6ty2EWCHR@cluster0.yvs1pu5.mongodb.net/invent`
-   - Gemini API: `AIzaSyA0ciq1X2Sa-m24Urvek3xOLkc3-Ia30Sg`
+   - MongoDB: `mongodb+srv://movieadda003:pass@cluster0.yvs1pu5.mongodb.net/invent`
+   - Gemini API: `AIza................`
 
 4. **Start the application**
    ```bash
